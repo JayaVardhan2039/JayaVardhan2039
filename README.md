@@ -1,7 +1,7 @@
-
+<img src="https://github.com/JayaVardhan2039/JayaVardhan2039/blob/main/rogh.gif">
 <h1 align="center">H!! 👋, I'm Jaya Vardhan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img alt="right" src="https://private-user-images.githubusercontent.com/74038190/238355375-51865424-10f2-4859-8055-b62b1c0d8d36.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0MTQ1MTIsIm5iZiI6MTcwNTQxNDIxMiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNzUtNTE4NjU0MjQtMTBmMi00ODU5LTgwNTUtYjYyYjFjMGQ4ZDM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE2VDE0MTAxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyYzkxMmZiMmQzMTQ3MGJkYWRlYTAyNTc0NWIyZDkxNTdiZTljZmNkZTg2NjJmYjNmZWRlNGI5OGVmNmQ3MjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.fZW5gF8UXhkErXmRGowo8DUYrUEsgoQd_HQEvUyaV3c">
+<img align="right" src="https://github.com/JayaVardhan2039/JayaVardhan2039/blob/main/octo.gif">
 - 🔭 I’m currently working on **searching profound internships**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -27,3 +27,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayavardhan2039&show_icons=true&locale=en&layout=compact" alt="jayavardhan2039" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayavardhan2039&show_icons=true&locale=en" alt="jayavardhan2039" /></p>
+<div>
+ ### Now Playing - Spotify 🎧
+<p>
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=31cv5wx334hqn2u3z7ovfhdl6ekq&redirect=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cv5wx334hqn2u3z7ovfhdl6ekq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true"/>
+ </a>
+ </p>
+  </div>
